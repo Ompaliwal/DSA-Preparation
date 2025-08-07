@@ -1,0 +1,32 @@
+# Ignore executable files
+*.exe
+*.exe~
+
+# Ignore object files and compiled output
+*.o
+*.obj
+*.out
+*.so
+*.dll
+
+# Ignore temporary runner files or logs (adjust according to your file names)
+*.log
+*.tmp
+runner_temp*
+temp_runner*
+tempCodeRunnerFile.cpp
+
+
+# Ignore build directories
+build/
+bin/
+Debug/
+Release/
+
+# Ignore IDE and editor-specific files (optional)
+.vscode/
+.idea/
+*.user
+*.suo
+*.swp
+*~
